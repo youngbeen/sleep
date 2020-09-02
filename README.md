@@ -3,12 +3,12 @@
 
 ## Sleep
 
-Ever think about use `setTimeout` like promise? Now it's here.
+Ever think about use `setTimeout` like promise? Here it is.
 
 ### Features
 
-* Friendly api yet as promise
-* Light as feather(only 365B)
+* Friendly api as promise
+* Light like feather(only 365B)
 
 ### Install
 
